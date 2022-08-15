@@ -1,0 +1,14 @@
+
+/* main heading */
+
+h1{
+    padding:0 2rem;
+    font-size: 4rem;
+    font-weight: 600;
+}
+div.weather_temp{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
